@@ -1,0 +1,4 @@
+Steps to run the Game of Life:
+	1. Use Idle or Pycharm to open the program and just run the module (I already called main() in the program)
+		Note: graphics are weird when run in terminal
+	2: Enter the required inputs when prompted and watch the board change
